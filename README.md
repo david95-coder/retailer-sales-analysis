@@ -18,6 +18,9 @@ The dataset contains purchase records and demographics, and the goal is to explo
 - Sundays and Mondays generated the highest sales volume.  
 - Seasonal patterns repeat year-over-year.
 
+##Example Visualization
+![YOY Sales graph](YOY sales graph.png)
+
 ## How to Run
 1. Download the notebook:  
    ```bash
