@@ -13,7 +13,7 @@ The dataset contains purchase records and demographics, and the goal is to explo
    - Day-of-week sales patterns  
 3. Visualize findings using line and bar plots.
 
-## 🔑 Key Findings
+## Key Findings
 - Sales increased steadily until late 2017, then slowed.  
 - Sundays and Mondays generated the highest sales volume.  
 - Seasonal patterns repeat year-over-year.
