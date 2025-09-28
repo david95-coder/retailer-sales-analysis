@@ -25,3 +25,8 @@ The dataset contains purchase records and demographics, and the goal is to explo
 1. Download the notebook:  
    ```bash
    git clone https://github.com/david95-coder/retailer-sales-analysis.git
+   cd retailer-sales-analysis
+2. Install the required dependencies:
+   pip install -r requirements.txt
+3. Open the Jupyter Notebook:
+   jupyter notebook retailer_transactions_analysis.ipynb
